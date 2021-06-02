@@ -1,0 +1,485 @@
+00:00:27.394,00:00:30.394
+Yachika paul: Sir wait
+
+00:00:30.562,00:00:33.562
+Quanta Gupta: yes sir
+
+00:01:01.682,00:01:04.682
+Bhanupriya Sharma: sir is the tweepy link read only?
+
+00:01:09.122,00:01:12.122
+Yachika paul: Sir what URL v need to add
+
+00:01:13.127,00:01:16.127
+Bhanupriya Sharma: yes
+
+00:01:41.340,00:01:44.340
+Ekant Bagri: +1
+
+00:01:41.630,00:01:44.630
+Tanya Goel: +1
+
+00:01:41.675,00:01:44.675
+Amandeep Kaur: +1
+
+00:01:45.218,00:01:48.218
+Anshee Mongia: +1
+
+00:01:50.196,00:01:53.196
+Shreya Goel: +1
+
+00:01:54.907,00:01:57.907
+Riya Raj: +1
+
+00:03:52.800,00:03:55.800
+Sheetal sehrawat: Sir could you please allow participants to join ?
+
+00:05:00.735,00:05:03.735
+Shivani singh: sir can you speak louder l
+
+00:08:08.946,00:08:11.946
+kritika verma: do we need to install tweepy?
+
+00:08:39.002,00:08:42.002
+kritika verma: okay sir
+
+00:10:01.613,00:10:04.613
+Shristi Sain: yes sir
+
+00:10:08.391,00:10:11.391
+Anshee Mongia: javascript object
+
+00:10:09.679,00:10:12.679
+Ekant Bagri: object?
+
+00:10:16.605,00:10:19.605
+Bhanupriya Sharma: dictionary of the data we asked for
+
+00:10:18.266,00:10:21.266
+Shradha Narain: the data is parsed into a python dict
+
+00:10:18.794,00:10:21.794
+Tamanna Verma: json what we asked for
+
+00:10:26.416,00:10:29.416
+Tamanna Verma: data*
+
+00:10:41.355,00:10:44.355
+Tamanna Verma: in form of python dictionary
+
+00:12:19.273,00:12:22.273
+Amandeep Kaur: Link :  https://drive.google.com/file/d/1HAm6ebHzOzZoENVf-KhpV909Sn7mIjsF/view?usp=sharing
+
+00:12:21.238,00:12:24.238
+Ekant Bagri: sir, can you tell that pip install statement for tweepy?
+
+00:12:39.763,00:12:42.763
+Bhanupriya Sharma: !pip install tweepy
+
+00:12:53.617,00:12:56.617
+Ekant Bagri: thenks!
+
+00:13:48.755,00:13:51.755
+Rishika Anand: yes sr
+
+00:14:59.076,00:15:02.076
+Priya Chaturvedi: Yes
+
+00:15:06.501,00:15:09.501
+Shreya Srivatsan: yes
+
+00:15:16.563,00:15:19.563
+sapna rai: Sir would you please tell the account creation part, once more, 
+
+00:15:20.614,00:15:23.614
+Tanya Goel: Citizens for Ethics
+
+00:15:21.624,00:15:24.624
+Shreya Goel: This Tweet is unavailable. Why is it showing this error
+
+00:15:25.205,00:15:28.205
+Amandeep Kaur: Getting TweepError
+
+00:15:31.547,00:15:34.547
+Anshee Mongia: sir giving error
+
+00:15:37.298,00:15:40.298
+Anshee Mongia: 404
+
+00:15:38.711,00:15:41.711
+Shreya Goel: Okay
+
+00:15:43.666,00:15:46.666
+sapna rai: twitter
+
+00:15:54.109,00:15:57.109
+sapna rai: developers account
+
+00:15:54.445,00:15:57.445
+Priya Chaturvedi: Just do import tweepy as tweepy @Shreya
+
+00:16:00.767,00:16:03.767
+Anshee Mongia: sir isn't 404 client side error?
+
+00:16:43.543,00:16:46.543
+sapna rai: yes sir
+
+00:17:22.666,00:17:25.666
+Ekant Bagri: sir there's a name eror that  'api' is not defined
+
+00:17:27.232,00:17:30.232
+Ekant Bagri: error*
+
+00:17:33.196,00:17:36.196
+sapna rai: okay sir
+
+00:18:08.878,00:18:11.878
+sapna rai:  got it
+
+00:18:28.735,00:18:31.735
+Priya Chaturvedi: @Ekant import tweepy as tweepy
+
+00:18:37.158,00:18:40.158
+Tanya Goel: Sir I'm not getting the url for the tweet
+
+00:18:40.964,00:18:43.964
+Ekant Bagri: okay
+
+00:18:46.374,00:18:49.374
+Anshee Mongia: yes sir done
+
+00:18:50.922,00:18:53.922
+Tanya Goel: Sir I'm not getting the url for the tweet
+
+00:18:54.263,00:18:57.263
+Rishika Anand: Alfredo Del Mazo
+
+00:18:58.591,00:19:01.591
+Anshee Mongia: manya jain
+
+00:19:03.237,00:19:06.237
+Shreya Srivatsan: qocot_mktg
+
+00:20:15.451,00:20:18.451
+Tanya Garg: yes sir.
+
+00:20:19.250,00:20:22.250
+Anshee Mongia: does it have something to do with our personal twitter acc?
+
+00:23:37.164,00:23:40.164
+Bhanupriya Sharma: one_tweet.keys('entities')
+
+00:23:42.626,00:23:45.626
+Tanya Garg: .keys('entities')
+
+00:24:03.112,00:24:06.112
+kritika verma: requests.get('entities')
+
+00:24:24.350,00:24:27.350
+Akshat Ayush: one_tweet['entities']
+
+00:30:30.053,00:30:33.053
+Avinash Tulasi: https://drive.google.com/file/d/1uXuUaq96Eg7SGP7GuFPKEHKs_wTiC3-M/view?usp=sharing
+
+00:31:50.226,00:31:53.226
+Avinash Tulasi: f = open('my_file', 'r+')
+lines = [line for line inf.readlines()]
+f.close()
+
+00:33:26.167,00:33:29.167
+Anshee Mongia: item?
+
+00:34:07.758,00:34:10.758
+Anshee Mongia: no sir i was saying for instead of one_tweet
+
+00:35:57.180,00:36:00.180
+Anshee Mongia: i got 3
+
+00:36:09.571,00:36:12.571
+Ekant Bagri: can you scroll up?
+
+00:36:31.840,00:36:34.840
+Ekant Bagri: yes sit
+
+00:36:33.050,00:36:36.050
+Tanya Goel: I got 13
+
+00:36:34.080,00:36:37.080
+Ekant Bagri: sir*
+
+00:36:43.984,00:36:46.984
+Shreya Srivatsan: I got hashtags in all but 2
+
+00:37:50.461,00:37:53.461
+Avinash Tulasi: https://developer.twitter.com/en/apps/
+
+00:38:29.916,00:38:32.916
+Shristi Sain: can we do all these things on spyder also ?
+
+00:39:07.253,00:39:10.253
+Ekant Bagri: sir your screen is not visible
+
+00:39:33.768,00:39:36.768
+Shreya Goel: It will be there in the right hand side where all the participants are shown
+
+00:39:59.068,00:40:02.068
+Yachika paul: Sir your screen is not visible
+
+00:40:03.113,00:40:06.113
+pooja gera: pin the presentation screen, it won't go away :)
+
+00:40:08.530,00:40:11.530
+Ekant Bagri: got it 
+
+00:41:41.177,00:41:44.177
+Yachika paul: M still not able to see screen
+
+00:41:54.438,00:41:57.438
+pooja gera: right side m jakr pin krdo presentation vali
+
+00:42:00.591,00:42:03.591
+pooja gera: where all screens are there
+
+00:42:24.957,00:42:27.957
+Shristi Sain: sir can we do all these things on spyder also??
+
+00:42:36.823,00:42:39.823
+Yachika paul: Only sir's picture is there
+
+00:42:50.199,00:42:53.199
+pooja gambhir: Sir the presentation is not visible
+
+00:43:16.767,00:43:19.767
+Tanya Garg: just pin the sir's name
+
+00:43:26.741,00:43:29.741
+Tanya Garg: showing presentation with sir's name
+
+00:43:27.447,00:43:30.447
+Rishika Anand: yes sir
+
+00:43:36.952,00:43:39.952
+Yachika paul: I did bt still presentation is not there
+
+00:43:39.976,00:43:42.976
+pooja gambhir: ok yes sir done thanks
+
+00:43:43.647,00:43:46.647
+unnati chhabra: where all of the participants screen are visible vha pr jakr pin krdo
+
+00:43:48.012,00:43:51.012
+Tanya Garg: presentation(Avinash Tulasi)
+Pin this user..
+
+00:44:11.007,00:44:14.007
+Yachika paul: Got it
+
+00:44:36.501,00:44:39.501
+unnati chhabra: or you can search in participants as well
+
+00:45:30.399,00:45:33.399
+Tanya Goel: Got it sir
+
+00:45:35.591,00:45:38.591
+Anshee Mongia: done
+
+00:47:06.078,00:47:09.078
+Anshee Mongia: like search for a particular id?
+
+00:47:36.742,00:47:39.742
+Shreya Srivatsan: done
+
+00:47:39.164,00:47:42.164
+Abhigya Verma: done
+
+00:48:52.165,00:48:55.165
+Tanya Goel: 38575 followers maximum
+
+00:49:19.000,00:49:22.000
+sapna rai: Sir how to load that file?
+
+00:49:24.340,00:49:27.340
+Tanya Goel: Yes sir
+
+00:49:29.291,00:49:32.291
+Tanya Garg: f = open('my_file', 'r+')
+lines = [line for line inf.readlines()]
+
+
+00:49:33.578,00:49:36.578
+Ekant Bagri: sir, this all_user_ids=[] just didn't run 
+
+00:49:39.259,00:49:42.259
+Ekant Bagri: showing no error tho
+
+00:50:15.157,00:50:18.157
+Anshee Mongia: 3610 max
+
+00:50:20.890,00:50:23.890
+Ekant Bagri: oh okay 
+
+00:51:54.062,00:51:57.062
+Anshee Mongia: index()?
+
+00:52:27.066,00:52:30.066
+Shreya Srivatsan: 77604 max
+
+00:52:30.914,00:52:33.914
+Carrysen Blackie: 2369
+
+00:52:33.997,00:52:36.997
+Bhanupriya Sharma: sir it is becoming difficult to follow since I dont have the keys, to just code and get desirable ooutput
+
+00:52:34.836,00:52:37.836
+Rishika Anand: 6403
+
+00:52:37.515,00:52:40.515
+Priya Chaturvedi: 8279
+
+00:52:52.775,00:52:55.775
+Amandeep Kaur: 2008
+
+00:52:54.582,00:52:57.582
+Shreya Goel: 54888
+
+00:53:01.244,00:53:04.244
+Sheetal sehrawat: 9234
+
+00:53:13.456,00:53:16.456
+pooja gambhir: 29033
+
+00:53:23.969,00:53:26.969
+Yachika paul: Sir error on data =tweet. _json
+
+00:53:42.173,00:53:45.173
+Yachika paul: Object has no attributes
+
+00:53:44.629,00:53:47.629
+Bhanupriya Sharma: please scroll up so that I shall know where to write the code to open up that file
+
+00:53:44.732,00:53:47.732
+pooja gera: 20822
+
+00:53:56.263,00:53:59.263
+pooja gera: @yachika print(tweet['user']['followers_count'])
+
+00:53:58.766,00:54:01.766
+pooja gera: I did this
+
+00:54:01.070,00:54:04.070
+pooja gera: works :)
+
+00:54:02.430,00:54:05.430
+Avinash Tulasi: with open("file.txt", "w") as output:
+    output.write(str(values))
+
+00:54:04.271,00:54:07.271
+Sanchita Singh: 6123
+
+00:54:52.437,00:54:55.437
+sapna rai: Sir can u please tell the command to load the text file.
+
+00:55:15.739,00:55:18.739
+Avinash Tulasi: with open("file.txt", "w") as output:
+    output.write(str(values))
+
+00:55:47.970,00:55:50.970
+Yachika paul: Yeah thanks it worked
+
+00:56:07.942,00:56:10.942
+Avinash Tulasi: https://kite.com/python/answers/how-to-read-a-text-file-into-a-list-in-python
+
+00:56:54.996,00:56:57.996
+Ekant Bagri: sir, where's that result txt file tho?
+
+00:57:12.345,00:57:15.345
+pooja gera: https://drive.google.com/file/d/1uXuUaq96Eg7SGP7GuFPKEHKs_wTiC3-M/view
+
+00:57:21.232,00:57:24.232
+pooja gera: text file^
+
+00:57:25.133,00:57:28.133
+Avinash Tulasi: https://drive.google.com/file/d/1uXuUaq96Eg7SGP7GuFPKEHKs_wTiC3-M/view?usp=sharing
+
+00:57:31.078,00:57:34.078
+Ekant Bagri: cool
+
+00:57:43.593,00:57:46.593
+Anshee Mongia: search_results[all_user_ids.index('24342')]._json
+
+00:59:17.146,00:59:20.146
+Bhanupriya Sharma: FOR THE CODE:  with open("results.txt", "w") as output:
+    output.write(str(values))
+
+00:59:25.284,00:59:28.284
+Bhanupriya Sharma: i  get error
+
+00:59:41.117,00:59:44.117
+Bhanupriya Sharma: NameError                                 Traceback (most recent call last)
+<ipython-input-6-de7d4e494674> in <module>()
+      4 
+      5 with open("results.txt", "w") as output:
+----> 6     output.write(str(values))
+
+NameError: name 'values' is not defined
+
+01:02:01.942,01:02:04.942
+Anshee Mongia: yes
+
+01:06:26.753,01:06:29.753
+Avinash Tulasi: https://forms.gle/PbHeLjofYbEfg5pg7
+
+01:06:58.948,01:07:01.948
+Anshee Mongia: trying
+
+01:07:16.995,01:07:19.995
+Bhanupriya Sharma: Sir honestly aap kahaan pahaunch gye, code krte krte,I am just not able to follow
+
+01:07:34.394,01:07:37.394
+Bhanupriya Sharma: I'm sorry I'm just not ableto cope up... need help
+
+01:07:49.472,01:07:52.472
+Tanya Garg: okay
+
+01:09:38.966,01:09:41.966
+Shreya Goel: def get_user_with_max_followers(hashtag):
+  result_cursor = api.search(q= '#'+hashtag , count=20)
+  all_user_follow = []
+  for tweet in result_cursor:
+    data = tweet._json
+    all_user_follow.append(data['user']['followers_count'])
+
+  print(max(all_user_follow))
+
+get_user_with_max_followers("#covid")
+
+01:15:07.687,01:15:10.687
+Anshee Mongia: sir doesn't person_info store the required data?
+
+01:20:02.706,01:20:05.706
+Bhanupriya Sharma: please send this funtion in the chat box for reference
+
+01:20:07.016,01:20:10.016
+Ekant Bagri: sir only if you can give an overview of this func again?
+
+01:20:13.020,01:20:16.020
+Bhanupriya Sharma: function*
+
+01:20:17.368,01:20:20.368
+Avinash Tulasi: https://forms.gle/PbHeLjofYbEfg5pg7
+
+01:20:40.934,01:20:43.934
+Priya Chaturvedi: Sir can you give just a superquick go through of this function?
+
+01:24:36.818,01:24:39.818
+Priya Chaturvedi: Alrighty!
+
+01:24:42.569,01:24:45.569
+Ekant Bagri: cool
+
+01:26:12.352,01:26:15.352
+Ekant Bagri: sir, can you pls share this notebook w us?
+
+01:26:20.862,01:26:23.862
+Ekant Bagri: the updated one 
+

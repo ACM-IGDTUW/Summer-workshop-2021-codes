@@ -1,0 +1,7 @@
+Hi All
+15-June-2020 (2:00-3:30, 4:00-5:30)
+The session 3 and session 4 was on 'All about Git and Github'.
+All the theoritical details and the code to use Git and GitHub is written my 'MEDIUM Blog'
+The link to blog: 
+
+https://medium.com/@shiivangii/all-about-git-and-github-c4b987df1b16
